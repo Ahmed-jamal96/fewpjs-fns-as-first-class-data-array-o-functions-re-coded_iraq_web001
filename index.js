@@ -13,9 +13,12 @@ function throwFrisbee(){
 function walkHome(){
   
 }
-function wakeDog(){
+function unleashDog(){
   
 }
+
+
+
 function wakeDog(){
   
 }
