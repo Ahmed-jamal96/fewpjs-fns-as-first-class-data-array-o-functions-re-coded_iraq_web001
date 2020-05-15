@@ -10,7 +10,7 @@ function walkToPar(){
 function throwFrisbee(){
   
 }
-function wakeDog(){
+functionwalkHome(){
   
 }
 function wakeDog(){
