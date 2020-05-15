@@ -4,7 +4,7 @@ function wakeDog(){
 function leashDog(){
   
 }
-function wakeDog(){
+functionwalkToPar(){
   
 }
 function wakeDog(){
