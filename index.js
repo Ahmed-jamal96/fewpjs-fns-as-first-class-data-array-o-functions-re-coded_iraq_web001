@@ -1,7 +1,7 @@
 function wakeDog(){
   
 }
-function wakeDog(){
+function leashDog(){
   
 }
 function wakeDog(){
