@@ -7,7 +7,7 @@ function leashDog(){
 function walkToPar(){
   
 }
-function wakeDog(){
+function throwFrisbee(){
   
 }
 function wakeDog(){
