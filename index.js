@@ -1,4 +1,4 @@
-function wakeDog(){
+function wakeDog(dogName,dogBreed){
   
 }
 function leashDog(){
